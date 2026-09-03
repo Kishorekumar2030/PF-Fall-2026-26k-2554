@@ -7,7 +7,14 @@
 > print(calendar.calendar(year))'''
 - Programming Fundamentals
 * Calculus
-+ English
-<br> 1.Clear Concepts of PF
-<br> 2.Use of Programming Language
-<br> 3.Towards My real Goal
++ English<br>
+1.Clear Concepts of PF<br>
+2.Use of Programming Language<br>
+3.Towards My real Goal <br>
+
+1.Data Science
+  * Machine Learning
+    * Supervised Learning
+      * Classification Algorithms
+        * Decision Trees & Random Forests <br>
+
