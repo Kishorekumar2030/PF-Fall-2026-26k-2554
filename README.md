@@ -13,8 +13,8 @@
 3.Towards My real Goal <br>
 
 1.Data Science
-   *Machine Learning
-     *Supervised Learning
-      *Classification Algorithms
-        *Decision Trees & Random Forests <br>
+   * Machine Learning
+     * Supervised Learning
+      * Classification Algorithms
+        * Decision Trees & Random Forests <br>
 
