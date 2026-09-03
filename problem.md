@@ -6,3 +6,4 @@
 5. Otherwise, the number is Odd
 6. Display the result
 7. Stop
+   
