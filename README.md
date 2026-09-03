@@ -25,5 +25,5 @@ Below are three essential Git commands for updating a Data Science project repos
 git add script.py
 git commit -m "Add data preprocessing script"
 git push origin main newline/
-![Data Science](https://stock.adobe.com/images/big-data-science-analysis-business-technology-concept-on-virtual-screen/262173764)
+![Data Science](https://stock.adobe.com/images/big-data-science-analysis-business-technology-concept-on-virtual-screen/262173764) 
 
